@@ -1,1 +1,3 @@
 # rentalcar
+
+# JavaScript Practice
